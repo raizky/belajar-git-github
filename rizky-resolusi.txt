@@ -1,0 +1,5 @@
+RIZKY RESOLUSI
+- Belajar apa itu git/github
+- Mengetahui apa kegunaan git/github
+- Mempelajari command yang terdapat dalam git/github
+- Mempraktikkan materi yang sudah dipelajari (Final)
